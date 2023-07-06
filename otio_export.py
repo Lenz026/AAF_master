@@ -1,7 +1,7 @@
 import os
 import subprocess
 import sys
-import otio_extensions
+# import otio_extensions
 from urllib.parse import quote
 from PySide2.QtCore import Qt, QSize, QTimer
 from PySide2.QtGui import QIcon, QPixmap
